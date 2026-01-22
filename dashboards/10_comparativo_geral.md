@@ -1,4 +1,4 @@
-# Dashboard 10 – Comparativo Geral dos Cenários Cromáticos
+# Página 10 - Dashboard: Comparativo Geral dos Cenários Cromáticos
 
 ## Objetivo de Negócio
 Consolidar os resultados e comparar o impacto emocional de todos os cenários analisados.
