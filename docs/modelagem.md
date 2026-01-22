@@ -194,6 +194,13 @@ O modelo utiliza uma **estrutura em estrela estendida**, combinando relacionamen
 
 ---
 
+# Imagem - Relacionamentos
+
+<img width="3840" height="1973" alt="image" src="https://github.com/user-attachments/assets/2341d5d0-faf2-4320-8faf-4233de32867c" />
+
+
+---
+
 ## Preparação dos Dados (ETL)
 O tratamento dos dados foi realizado no **Power Query**, incluindo:
 - Padronização de categorias textuais  
@@ -203,6 +210,12 @@ O tratamento dos dados foi realizado no **Power Query**, incluindo:
 - Organização lógica das tabelas  
 
 Essa etapa assegura que os dados estejam **confiáveis, consistentes e prontos para análise**.
+
+---
+
+# Imagem - Power Query
+
+<img width="3840" height="2003" alt="image" src="https://github.com/user-attachments/assets/6018a90a-6460-451b-ab78-f67023fc940b" />
 
 ---
 
