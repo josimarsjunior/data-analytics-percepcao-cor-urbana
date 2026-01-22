@@ -85,19 +85,19 @@ Cada dashboard possui uma **documentação dedicada**, descrevendo:
 ### Contexto e Uso do Espaço
 
 - **Dashboard 01 – Perfil dos Usuários**  
-  📄 [Ver detalhamento](dashboards/dashboard_01_perfil_usuarios.md)  
+  📄 [Ver detalhamento](dashboards/01_perfil_usuarios.md)  
   Análise do perfil sociodemográfico e características da amostra.
 
 - **Dashboard 02 – Uso do Espaço Urbano**  
-  📄 [Ver detalhamento](dashboards/dashboard_02_uso_espaco.md)  
+  📄 [Ver detalhamento](dashboards/02_uso_espaco.md)  
   Frequência de uso, relação com o espaço e padrões de permanência.
 
 - **Dashboard 03 – Atenção Visual**  
-  📄 [Ver detalhamento](dashboards/dashboard_03_atencao_visual.md)  
+  📄 [Ver detalhamento](dashboards/03_atencao_visual.md)  
   Elementos que mais chamam atenção no espaço urbano.
 
 - **Dashboard 04 – Disposição para Mudança**  
-  📄 [Ver detalhamento](dashboards/dashboard_04_disposicao_mudanca.md)  
+  📄 [Ver detalhamento](dashboards/04_disposicao_mudanca.md)  
   Abertura dos usuários para alterações visuais no ambiente.
 
 ---
@@ -105,7 +105,7 @@ Cada dashboard possui uma **documentação dedicada**, descrevendo:
 ### Análise do Cenário Atual
 
 - **Dashboard 05 – Experiência do Usuário no Cenário Atual**  
-  📄 [Ver detalhamento](dashboards/dashboard_05_cenario_atual.md)  
+  📄 [Ver detalhamento](dashboards/05_cenario_atual.md)  
   Avaliação emocional do cenário existente, sem intervenções cromáticas.
 
 ---
@@ -113,23 +113,23 @@ Cada dashboard possui uma **documentação dedicada**, descrevendo:
 ### Simulações Cromáticas (Impacto da Cor)
 
 - **Dashboard 06 – Impacto da Cor Azul**  
-  📄 [Ver detalhamento](dashboards/dashboard_06_cor_azul.md)
+  📄 [Ver detalhamento](dashboards/06_cor_azul.md)
 
 - **Dashboard 07 – Impacto da Cor Vermelha**  
-  📄 [Ver detalhamento](dashboards/dashboard_07_cor_verde.md)
+  📄 [Ver detalhamento](dashboards/07_cor_vermelho.md)
 
 - **Dashboard 08 – Impacto da Cor Verde**  
-  📄 [Ver detalhamento](dashboards/dashboard_08_cor_vermelha.md)
+  📄 [Ver detalhamento](dashboards/08_cor_verde.md)
 
 - **Dashboard 09 – Impacto da Cor Amarela**  
-  📄 [Ver detalhamento](dashboards/dashboard_09_cor_amarela.md)
+  📄 [Ver detalhamento](dashboards/09_cor_amarela.md)
 
 ---
 
 ### Suporte à Tomada de Decisão
 
 - **Dashboard 10 – Análise Comparativa dos Cenários**  
-  📄 [Ver detalhamento](dashboards/dashboard_10_comparativo_geral.md)  
+  📄 [Ver detalhamento](dashboards/10_comparativo_geral.md)  
   Comparação consolidada dos cenários cromáticos e apoio à decisão.  
 
 ---
