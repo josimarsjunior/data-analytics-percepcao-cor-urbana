@@ -1,4 +1,4 @@
-# Case de Análise de Dados – Experiência do Usuário e Percepção da Cor em Espaços Urbanos (Power BI)
+# Modelo de Dados – Experiência do Usuário e Percepção da Cor em Espaços Urbanos (Power BI)
 
 ## Visão Geral
 Este projeto utiliza um **modelo dimensional estruturado no Power BI**, construído a partir de dados reais de pesquisa, com foco em **análise de percepção afetiva**, **segmentação de usuários** e **comparação entre cenários cromáticos**.
