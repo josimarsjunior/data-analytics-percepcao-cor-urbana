@@ -1,4 +1,4 @@
-# Dashboard 08 – Impacto da Cor Verde na Experiência do Usuário
+# Página 08 – Impacto da Cor Verde na Experiência do Usuário
 
 ## Objetivo de Negócio
 Analisar o impacto emocional da cor verde aplicada aos mobiliários urbanos.
