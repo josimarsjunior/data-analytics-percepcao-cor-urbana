@@ -11,7 +11,7 @@ A partir de **dados reais e anonimizados**, o projeto transforma percepções su
 
 O relatório completo está publicado no **Power BI Service**, permitindo navegação interativa entre os dashboards e exploração dos dados.
 
-👉 **[Acessar Relatório no Power BI Service].(https://app.powerbi.com/SEU_LINK_AQUI](https://app.powerbi.com/view?r=eyJrIjoiZDg1OThjODItZGU4YS00N2RhLWJlZTctY2RjNTEwOWMyZTc3IiwidCI6ImZlOWJlZjU5LTk2MTEtNGQ3NC1hMTY5LTAwMGRiYjUzYTg1ZiJ9).**
+👉 [Acessar Relatório no Power BI Service].(https://app.powerbi.com/SEU_LINK_AQUI](https://app.powerbi.com/view?r=eyJrIjoiZDg1OThjODItZGU4YS00N2RhLWJlZTctY2RjNTEwOWMyZTc3IiwidCI6ImZlOWJlZjU5LTk2MTEtNGQ3NC1hMTY5LTAwMGRiYjUzYTg1ZiJ9).
 
 > ⚠️ Observação: os dados utilizados são anonimizados e apresentados exclusivamente para fins científicos e demonstrativos.
 
