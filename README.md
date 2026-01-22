@@ -56,6 +56,7 @@ O modelo de dados foi estruturado para permitir **análises exploratórias, comp
 
 📄 Detalhamento técnico:  
 👉 [Documentação da Modelagem](docs/modelagem.md)
+👉 [Documentação da Modelagem](docs/dax.md)
 
 ---
 
