@@ -26,7 +26,7 @@ Espaços públicos frequentemente adotam soluções visuais padronizadas sem val
 ---
 
 ## Fonte dos Dados
-- Dados reais coletados com usuários em espaço urbano durante o de Mestrado em Design da Universidade Federal de Campina Grande - PB.
+- Dados reais coletados com usuários em espaço urbano durante o meu Mestrado em Design da Universidade Federal de Campina Grande - PB.
 - Amostra: **60 participantes**  
 - Dados anonimizados e agregados  
 - Principais dimensões analisadas:
