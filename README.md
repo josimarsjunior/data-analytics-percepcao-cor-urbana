@@ -148,4 +148,11 @@ Este tipo de análise pode apoiar decisões em:
 - UX / UI e Design de Experiência  
 - Design de Produto e Serviço  
 - Planejamento Urbano e Cidades Inteligentes  
-- Políticas públicas orientadas por evidências  
+- Políticas públicas orientadas por evidências
+
+---
+
+## Autor
+Josimar dos Santos Junior  
+Analista de Dados   
+[LinkedIn](https://www.linkedin.com/in/josimarjunior/)
