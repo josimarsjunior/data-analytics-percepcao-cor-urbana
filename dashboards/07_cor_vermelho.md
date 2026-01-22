@@ -1,4 +1,4 @@
-# Dashboard 07 – Impacto da Cor Vermelha na Experiência do Usuário
+# Página 07 – Impacto da Cor Vermelha na Experiência do Usuário
 
 ## Objetivo de Negócio
 Avaliar o risco emocional associado à cor vermelha.
