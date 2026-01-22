@@ -1,13 +1,13 @@
 # Case de Análise de Dados – Experiência do Usuário e Percepção da Cor em Espaços Urbanos (Power BI)
 
-## 📊 Visão Geral
+## Visão Geral
 Este repositório apresenta um **case completo de Análise de Dados desenvolvido em Power BI**, com foco em analisar como **variáveis visuais (cores)** influenciam a **experiência do usuário, as respostas emocionais e o suporte à tomada de decisão** em espaços públicos.
 
 A partir de **dados reais e anonimizados**, o projeto transforma percepções subjetivas em **métricas estruturadas, indicadores emocionais e insights acionáveis**, conectando dados, design e decisão.
 
 ---
 
-## 🔗 Acesso ao Relatório Interativo (Power BI Service)
+## Acesso ao Relatório Interativo (Power BI Service)
 
 O relatório completo está publicado no **Power BI Service**, permitindo navegação interativa entre os dashboards e exploração dos dados.
 
@@ -17,7 +17,7 @@ O relatório completo está publicado no **Power BI Service**, permitindo navega
 
 ---
 
-## 🎯 Problema de Negócio
+## Problema de Negócio
 Espaços públicos frequentemente adotam soluções visuais padronizadas sem validação empírica sobre seus impactos emocionais e comportamentais.
 
 **Pergunta central do projeto:**
@@ -25,7 +25,7 @@ Espaços públicos frequentemente adotam soluções visuais padronizadas sem val
 
 ---
 
-## 🧪 Fonte dos Dados
+## Fonte dos Dados
 - Dados reais coletados com usuários em espaço urbano durante o de Mestrado em Design da Universidade Federal de Campina Grande - PB.
 - Amostra: **60 participantes**  
 - Dados anonimizados e agregados  
@@ -38,7 +38,7 @@ Espaços públicos frequentemente adotam soluções visuais padronizadas sem val
 
 ---
 
-## 🛠 Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 - Power BI Desktop  
 - Power Query (ETL e tratamento dos dados)  
 - Modelagem Dimensional  
@@ -47,7 +47,7 @@ Espaços públicos frequentemente adotam soluções visuais padronizadas sem val
 
 ---
 
-## 🧱 Modelagem de Dados
+## Modelagem de Dados
 O modelo de dados foi estruturado para permitir **análises exploratórias, comparativas e segmentadas**, integrando:
 - Dados de perfil do usuário  
 - Estímulos visuais (cores)  
@@ -59,7 +59,7 @@ O modelo de dados foi estruturado para permitir **análises exploratórias, comp
 
 ---
 
-## 📈 Principais Métricas
+## Principais Métricas
 - Afeto Positivo (AP)  
 - Afeto Negativo (AN)  
 - Comparação emocional entre cenários visuais  
@@ -68,7 +68,7 @@ O modelo de dados foi estruturado para permitir **análises exploratórias, comp
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
 O projeto é composto por **10 dashboards**, organizados de forma progressiva, partindo da **caracterização dos usuários** até o **suporte à tomada de decisão baseada em dados**.
 
@@ -80,7 +80,7 @@ Cada dashboard possui uma **documentação dedicada**, descrevendo:
 
 ---
 
-### 🔹 Contexto e Uso do Espaço
+### Contexto e Uso do Espaço
 
 - **Dashboard 01 – Perfil dos Usuários**  
   📄 [Ver detalhamento](dashboards/dashboard_01_perfil_usuarios.md)  
@@ -100,7 +100,7 @@ Cada dashboard possui uma **documentação dedicada**, descrevendo:
 
 ---
 
-### 🔹 Análise do Cenário Atual
+### Análise do Cenário Atual
 
 - **Dashboard 05 – Experiência do Usuário no Cenário Atual**  
   📄 [Ver detalhamento](dashboards/dashboard_05_cenario_atual.md)  
@@ -108,15 +108,15 @@ Cada dashboard possui uma **documentação dedicada**, descrevendo:
 
 ---
 
-### 🔹 Simulações Visuais (Impacto da Cor)
+### Simulações Cromáticas (Impacto da Cor)
 
 - **Dashboard 06 – Impacto da Cor Azul**  
   📄 [Ver detalhamento](dashboards/dashboard_06_cor_azul.md)
 
-- **Dashboard 07 – Impacto da Cor Verde**  
+- **Dashboard 07 – Impacto da Cor Vermelha**  
   📄 [Ver detalhamento](dashboards/dashboard_07_cor_verde.md)
 
-- **Dashboard 08 – Impacto da Cor Vermelha**  
+- **Dashboard 08 – Impacto da Cor Verde**  
   📄 [Ver detalhamento](dashboards/dashboard_08_cor_vermelha.md)
 
 - **Dashboard 09 – Impacto da Cor Amarela**  
@@ -124,7 +124,7 @@ Cada dashboard possui uma **documentação dedicada**, descrevendo:
 
 ---
 
-### 🔹 Suporte à Tomada de Decisão
+### Suporte à Tomada de Decisão
 
 - **Dashboard 10 – Análise Comparativa dos Cenários**  
   📄 [Ver detalhamento](dashboards/dashboard_10_comparativo_geral.md)  
@@ -132,7 +132,7 @@ Cada dashboard possui uma **documentação dedicada**, descrevendo:
 
 ---
 
-## 🔍 Principais Insights
+## Principais Insights
 - O cenário atual apresenta **baixo engajamento emocional**
 - As cores azul e verde geram **maiores níveis de afeto positivo**
 - A cor vermelha apresenta **maior risco emocional**
@@ -142,7 +142,7 @@ Cada dashboard possui uma **documentação dedicada**, descrevendo:
 
 ---
 
-## 💡 Aplicações Práticas
+## Aplicações Práticas
 Este tipo de análise pode apoiar decisões em:
 - Análise de Dados e Business Intelligence  
 - UX / UI e Design de Experiência  
