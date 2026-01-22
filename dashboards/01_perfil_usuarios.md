@@ -1,4 +1,4 @@
-# Dashboard 01 – Perfil dos Usuários
+# Página 01 – Perfil dos Usuários
 
 ## Objetivo de Negócio
 Contextualizar a base de dados por meio da segmentação dos usuários, permitindo análises comparativas mais precisas nos dashboards seguintes.
