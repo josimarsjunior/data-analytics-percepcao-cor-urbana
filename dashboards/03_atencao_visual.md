@@ -1,4 +1,4 @@
-# Dashboard 03 – Atenção Visual aos Mobiliários Urbanos
+# Página 03 – Atenção Visual aos Mobiliários Urbanos
 
 ## Objetivo de Negócio
 Identificar quais elementos do mobiliário urbano geram maior destaque visual para o usuário.
