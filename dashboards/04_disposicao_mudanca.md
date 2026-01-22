@@ -1,4 +1,4 @@
-# Dashboard 04 – Disposição para Mudança Visual
+# Página 04 – Disposição para Mudança Visual
 
 ## Objetivo de Negócio
 Avaliar a abertura dos usuários a mudanças visuais no espaço urbano, com foco na cor dos mobiliários.
