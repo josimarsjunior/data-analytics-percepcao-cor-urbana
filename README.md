@@ -85,19 +85,19 @@ Cada página possui uma **documentação dedicada**, descrevendo:
 ### Contexto e Uso do Espaço
 
 - **Página 01 – Perfil dos Usuários**  
-  📄 [Ver detalhamento](dashboards/01_perfil_usuarios.md)  
+  📄 [Ver detalhamento](paginas/01_perfil_usuarios.md)  
   Análise do perfil sociodemográfico e características da amostra.
 
 - **Página 02 – Uso do Espaço Urbano**  
-  📄 [Ver detalhamento](dashboards/02_uso_espaco.md)  
+  📄 [Ver detalhamento](paginas/02_uso_espaco.md)  
   Frequência de uso, relação com o espaço e padrões de permanência.
 
 - **Página 03 – Atenção Visual**  
-  📄 [Ver detalhamento](dashboards/03_atencao_visual.md)  
+  📄 [Ver detalhamento](paginas/03_atencao_visual.md)  
   Elementos que mais chamam atenção no espaço urbano.
 
 - **Página 04 – Disposição para Mudança**  
-  📄 [Ver detalhamento](dashboards/04_disposicao_mudanca.md)  
+  📄 [Ver detalhamento](paginas/04_disposicao_mudanca.md)  
   Abertura dos usuários para alterações visuais no ambiente.
 
 ---
@@ -105,7 +105,7 @@ Cada página possui uma **documentação dedicada**, descrevendo:
 ### Análise do Cenário Atual
 
 - **Página 05 – Experiência do Usuário no Cenário Atual**  
-  📄 [Ver detalhamento](dashboards/05_cenario_atual.md)  
+  📄 [Ver detalhamento](paginas/05_cenario_atual.md)  
   Avaliação emocional do cenário existente, sem intervenções cromáticas.
 
 ---
@@ -113,23 +113,23 @@ Cada página possui uma **documentação dedicada**, descrevendo:
 ### Simulações Cromáticas (Impacto da Cor)
 
 - **Página 06 – Impacto da Cor Azul**  
-  📄 [Ver detalhamento](dashboards/06_cor_azul.md)
+  📄 [Ver detalhamento](paginas/06_cor_azul.md)
 
 - **Página 07 – Impacto da Cor Vermelha**  
-  📄 [Ver detalhamento](dashboards/07_cor_vermelho.md)
+  📄 [Ver detalhamento](paginas/07_cor_vermelho.md)
 
 - **Página 08 – Impacto da Cor Verde**  
-  📄 [Ver detalhamento](dashboards/08_cor_verde.md)
+  📄 [Ver detalhamento](paginas/08_cor_verde.md)
 
 - **Página 09 – Impacto da Cor Amarela**  
-  📄 [Ver detalhamento](dashboards/09_cor_amarela.md)
+  📄 [Ver detalhamento](paginas/09_cor_amarela.md)
 
 ---
 
 ### Suporte à Tomada de Decisão
 
 - **Página 10 - Dashboard: Análise Comparativa dos Cenários**  
-  📄 [Ver detalhamento](dashboards/10_comparativo_geral.md)  
+  📄 [Ver detalhamento](paginas/10_comparativo_geral.md)  
   Comparação consolidada dos cenários cromáticos e apoio à decisão.  
 
 ---
