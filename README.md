@@ -43,7 +43,7 @@ Espaços públicos frequentemente adotam soluções visuais padronizadas sem val
 - Power Query (ETL e tratamento dos dados)  
 - Modelagem Dimensional  
 - DAX para métricas analíticas  
-- Dashboards orientados a insight e suporte à decisão  
+- Visualizações orientadas a insight e decisão  
 
 ---
 
@@ -72,9 +72,9 @@ O modelo de dados foi estruturado para permitir **análises exploratórias, comp
 
 ## Dashboards
 
-O projeto é composto por **10 dashboards**, organizados de forma progressiva, partindo da **caracterização dos usuários** até o **suporte à tomada de decisão baseada em dados**.
+O projeto é compostopor por **9 páginas** de análise exploratória e **um dashboard** consolidado de suporte à decisão , organizados de forma progressiva, partindo da **caracterização dos usuários** até o **suporte à tomada de decisão baseada em dados**.
 
-Cada dashboard possui uma **documentação dedicada**, descrevendo:
+Cada página possui uma **documentação dedicada**, descrevendo:
 - Objetivo analítico
 - Principais métricas
 - Perguntas respondidas
@@ -84,19 +84,19 @@ Cada dashboard possui uma **documentação dedicada**, descrevendo:
 
 ### Contexto e Uso do Espaço
 
-- **Dashboard 01 – Perfil dos Usuários**  
+- **Página 01 – Perfil dos Usuários**  
   📄 [Ver detalhamento](dashboards/01_perfil_usuarios.md)  
   Análise do perfil sociodemográfico e características da amostra.
 
-- **Dashboard 02 – Uso do Espaço Urbano**  
+- **Página 02 – Uso do Espaço Urbano**  
   📄 [Ver detalhamento](dashboards/02_uso_espaco.md)  
   Frequência de uso, relação com o espaço e padrões de permanência.
 
-- **Dashboard 03 – Atenção Visual**  
+- **Página 03 – Atenção Visual**  
   📄 [Ver detalhamento](dashboards/03_atencao_visual.md)  
   Elementos que mais chamam atenção no espaço urbano.
 
-- **Dashboard 04 – Disposição para Mudança**  
+- **Página 04 – Disposição para Mudança**  
   📄 [Ver detalhamento](dashboards/04_disposicao_mudanca.md)  
   Abertura dos usuários para alterações visuais no ambiente.
 
@@ -104,7 +104,7 @@ Cada dashboard possui uma **documentação dedicada**, descrevendo:
 
 ### Análise do Cenário Atual
 
-- **Dashboard 05 – Experiência do Usuário no Cenário Atual**  
+- **Página 05 – Experiência do Usuário no Cenário Atual**  
   📄 [Ver detalhamento](dashboards/05_cenario_atual.md)  
   Avaliação emocional do cenário existente, sem intervenções cromáticas.
 
@@ -112,23 +112,23 @@ Cada dashboard possui uma **documentação dedicada**, descrevendo:
 
 ### Simulações Cromáticas (Impacto da Cor)
 
-- **Dashboard 06 – Impacto da Cor Azul**  
+- **Página 06 – Impacto da Cor Azul**  
   📄 [Ver detalhamento](dashboards/06_cor_azul.md)
 
-- **Dashboard 07 – Impacto da Cor Vermelha**  
+- **Página 07 – Impacto da Cor Vermelha**  
   📄 [Ver detalhamento](dashboards/07_cor_vermelho.md)
 
-- **Dashboard 08 – Impacto da Cor Verde**  
+- **Página 08 – Impacto da Cor Verde**  
   📄 [Ver detalhamento](dashboards/08_cor_verde.md)
 
-- **Dashboard 09 – Impacto da Cor Amarela**  
+- **Página 09 – Impacto da Cor Amarela**  
   📄 [Ver detalhamento](dashboards/09_cor_amarela.md)
 
 ---
 
 ### Suporte à Tomada de Decisão
 
-- **Dashboard 10 – Análise Comparativa dos Cenários**  
+- **Página 10 - Dashboard: Análise Comparativa dos Cenários**  
   📄 [Ver detalhamento](dashboards/10_comparativo_geral.md)  
   Comparação consolidada dos cenários cromáticos e apoio à decisão.  
 
