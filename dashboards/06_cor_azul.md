@@ -1,4 +1,4 @@
-# Dashboard 06 – Impacto da Cor Azul na Experiência do Usuário
+# Página 06 – Impacto da Cor Azul na Experiência do Usuário
 
 ## Objetivo de Negócio
 Avaliar o impacto da cor azul na experiência emocional do usuário.
