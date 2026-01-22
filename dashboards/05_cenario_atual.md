@@ -1,4 +1,4 @@
-# Dashboard 05 – Experiência do Usuário no Cenário Atual
+# Página 05 – Experiência do Usuário no Cenário Atual
 
 ## Objetivo de Negócio
 Mensurar a experiência emocional do usuário no cenário atual do espaço urbano.
