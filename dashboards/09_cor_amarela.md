@@ -1,4 +1,4 @@
-# Dashboard 09 – Impacto da Cor Amarela na Experiência do Usuário
+# Página 09 – Impacto da Cor Amarela na Experiência do Usuário
 
 ## Objetivo de Negócio
 Analisar o impacto emocional da cor amarela aplicada aos mobiliários urbanos.
