@@ -1,4 +1,4 @@
-# Dashboard 02 – Uso do Espaço Urbano
+# Página 02 – Uso do Espaço Urbano
 
 ## Objetivo de Negócio
 Analisar o nível de engajamento dos usuários com o espaço urbano, considerando frequência de visita e utilização dos mobiliários.
